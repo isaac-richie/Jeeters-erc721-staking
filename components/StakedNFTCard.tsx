@@ -55,7 +55,7 @@ export const StakedNFTCard: React.FC<StakedNFTCardProps> = ({ tokenId, refetchSt
                     width: "100%",
                     fontSize: "12px"
                 }}
-            >Withdraw</TransactionButton>
+            >Unstake</TransactionButton>
         </div>
     )
 };
